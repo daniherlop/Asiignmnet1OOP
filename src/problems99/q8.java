@@ -16,6 +16,7 @@ public class q8 {
 			System.out.print("the sqr is " + sqrootnum);
 					
 		}
+		kb.close();
 		
 
 	}
